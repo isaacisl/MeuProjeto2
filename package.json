@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "meuprojeto24",
   "version": "1.0.4",
+=======
+  "name": "meuprojeto23",
+  "version": "1.0.3",
+>>>>>>> develop
   "description": "",
   "main": "index.js",
   "scripts": {
